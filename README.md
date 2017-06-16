@@ -1,4 +1,4 @@
 
-git clone https://github.com/Hotakasama/dotfiles
+git clone https://github.com/Hotakasama/.vimrc
 cd dotfiles
 ./install.sh
